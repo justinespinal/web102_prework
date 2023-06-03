@@ -9,6 +9,14 @@ body {
     width: 50px;
 }
 
+.center{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
 .header {
     display: flex;
     background-color: lightblue;
@@ -19,8 +27,16 @@ body {
     margin-top: -10px;
 }
 
-.stats-container {
+.stats-container{
     display: flex;
+    align-items: flex-start;
+}
+
+.stats-container:hover{
+    display: flex;
+    align-items: flex-start;
+    cursor:pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
