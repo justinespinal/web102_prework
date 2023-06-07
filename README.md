@@ -1,32 +1,32 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding Website Prework*
 
-Submitted by: **Your Name Here**
+Submitted by: **Justin Espinal**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Tweb's Gaming Funds** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
-
+* [X] List anything else that you can get done to improve the app functionality!
+I implemented centering all the text on the site for a better UI. What can be added is a search bar to look up specific games being funded!
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc3ODIyZWZhMzhjNGI2YmNlZTRiMjQxNzY3Mjc2YTQyNGVjMDdhMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/tqsI4m6ODypDVGVWA0/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICECAP and uploaded with GIPHY
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,10 +35,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+The main challenges that I faced would have to be working with the game object, and also implementing both the reduce() and filter() methods. I was able to complete the assignment though,
+and I am confident that through this course I will gain a better understanding of these 2 fucntions
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Justin Espinal]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
